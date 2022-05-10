@@ -97,7 +97,7 @@ By default, many HTML5 form inputs include validation that is provided by the br
 ```
 
 ### IMAGE FORMATS
-Know the pros/cons of each image format and use whatever best suits your needs. In general at Blink we use:
+Know the pros/cons of each image format and use whatever best suits your needs. In general we use:
 * .jpg
 * .png
 * .svg

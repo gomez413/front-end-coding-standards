@@ -1,1 +1,1 @@
-# front-end-coding-standards
+# Front-end Coding Standards

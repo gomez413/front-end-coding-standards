@@ -40,7 +40,7 @@ Imagine your CSS as an inverted triangle. Write the most generic rules up front.
 6. Components - Recognizable pieces of the UI (most of your work happens here)
 7. Hacks - Inelegant, heavy-handed techniques to override other styles
 
-![](https://github.com/UX/guides/blob/master/Blink%20CSS%20Architecture%20Diagram.png)
+![](./ITCSS.png)
 
 
 ## CSS Style Guide

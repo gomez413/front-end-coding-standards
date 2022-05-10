@@ -7,6 +7,6 @@ Follow these guides to make your code more readable and your fellow developers w
 >“Programs must be written for people to read, and only incidentally for machines to execute.”
 >― Harold Abelson, Structure and Interpretation of Computer Programs
 
-* [HTML Guide](./guides/html.md)
-* [CSS Guide](./guides/css.md)
+* [HTML Guide](./html.md)
+* [CSS Guide](./css.md)
 * [Javascript Guide] - TODO

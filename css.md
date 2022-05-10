@@ -58,7 +58,7 @@ Place the opening curly-bracket of each rule block on the same line as the last 
 ```
 
 ### BROWSER HACKS
-Browser hacks should only be used on browsers <= IE10. Blink only supports browsers >= IE11 on platforms >= Windows 8. This decision was made because as of January 12, 2016, Microsoft stopped supporting IE10 and older. At this point, Chrome, FF, Safari, Edge, and IE11+ are W3C standards compliant on both Mac and PC. This means any browser inconsistencies with your code should be solvable without resorting to browser hacks. Of course nothing is perfect, so if you find yourself in a bind, feel free to use browser hacks, but make it a point to come back later and try to fix it without hacking.
+Browser hacks should only be used on browsers <= IE10. We only support browsers >= IE11 on platforms >= Windows 8. This decision was made because as of January 12, 2016, Microsoft stopped supporting IE10 and older. At this point, Chrome, FF, Safari, Edge, and IE11+ are W3C standards compliant on both Mac and PC. This means any browser inconsistencies with your code should be solvable without resorting to browser hacks. Of course nothing is perfect, so if you find yourself in a bind, feel free to use browser hacks, but make it a point to come back later and try to fix it without hacking.
 
 **Resources**
 * http://browserhacks.com

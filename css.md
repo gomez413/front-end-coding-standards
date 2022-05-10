@@ -28,7 +28,7 @@ Some projects have specific support requirements but generally, this is what we 
 
 
 ## CSS Architecture
-Our approach to CSS Architecture is a combination of best practices, personal preferences, advice from [Harry Roberts](https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528). 
+Our approach to CSS Architecture is a combination of best practices, personal preference, and advice from [Harry Roberts](https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528). 
 
 Imagine your CSS as an inverted triangle. Write the most generic rules up front. As the style sheet progresses, your code should be more specific and, effecting less and less of the DOM.
 

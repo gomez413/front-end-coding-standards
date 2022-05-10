@@ -22,7 +22,7 @@ Boolean attributes should not have a value.
 ### CAPITALIZATION
 Use only lowercase, unless it's for a string.
 ```html
-<img src="blink-logo.jpg" class="logo" alt="Blink logo">
+<img src="logo.jpg" class="logo" alt="logo">
 ```
 
 ### CLOSING TAGS
@@ -34,13 +34,13 @@ With HTML5, the trailing slash on self-closing tags is now optional. If you're u
 
 **No**
 ```html
-<img src="blink-logo.jpg" />
+<img src="logo.jpg" />
 <input type="text" />
 <br />
 ```
 **Yes**
 ```html
-<img src="blink-logo.jpg">
+<img src="logo.jpg">
 <input type="text">
 <br>
 ```
@@ -71,7 +71,7 @@ Use UTF-8 encoding. This meta tag should be the first element inside the documen
 ### HTML ENTITIES
 Use appropriate HTML entity names or numbers for special characters.
 ```html
-&copy; 2018 Blink &#8212; All Rights Reserved;
+&copy; 2022 Company Name &#8212; All Rights Reserved;
 ```
 
 **Resources**

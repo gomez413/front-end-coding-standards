@@ -45,7 +45,7 @@ Imagine your CSS as an inverted triangle. Write the most generic rules up front.
 
 ## CSS Style Guide
 
-We practice the [principles of oocss](http://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/) wherever possible.
+We practice the [principles of OOCSS](http://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/) wherever possible.
 
 
 ### BRACKETS
